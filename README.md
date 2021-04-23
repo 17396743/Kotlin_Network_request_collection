@@ -1,4 +1,4 @@
 # Kotlin_Network_request_collection
 Kotlin_Network_request_collection
 
-主要收集一些Kotlin网络请求，直接复制粘贴就可以用。
+主要自学收集一些Kotlin网络请求，代码经过处理，简单已懂，直接复制粘贴就可以用。
